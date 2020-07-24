@@ -38,6 +38,13 @@ For access, please register for a free ticket at https://juliacon.org/2020
 
 - If you are on the live call, you can try to describe your problem and ask for help via the chat; hopefully other attendees will be able to assist.
 
+## MIT course 6.S083
+
+For a more detailed, slower look at this and additional material, with much more discussion about mathematical modelling,
+you may be interested in [MIT course 6.S083 from spring 2020](https://github.com/mitmath/6S083/blob/master/syllabus.md).
+Videos are available on the [JuliaLang YouTube channel](https://www.youtube.com/c/TheJuliaLanguage/videos).
+
+
 ## License
 
 Code in this repository is licensed under the MIT license, and text under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0) license. Copyright David P. Sanders 2020
