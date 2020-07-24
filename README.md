@@ -31,3 +31,7 @@ For access, please register for a free ticket at https://juliacon.org/2020
 
 
 - Navigate inside the file browser in the Jupyter notebook to the place on your computer where the files you just downloaded are. Load notebook number 1!
+
+
+- If you have installation problems you can also view the notebooks online at [nbviewer](https://nbviewer.jupyter.org/github/dpsanders/LearnJulia2020/tree/master) and use e.g. the online service [repl.it](https://repl.it) to write Julia code.
+and just use the Julia terminal or e.g. 
