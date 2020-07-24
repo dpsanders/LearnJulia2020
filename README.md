@@ -37,3 +37,11 @@ For access, please register for a free ticket at https://juliacon.org/2020
 - If you have installation problems you can also view the notebooks online at [nbviewer](https://nbviewer.jupyter.org/github/dpsanders/LearnJulia2020/tree/master) and use e.g. the online service [repl.it](https://repl.it) to write Julia code.
 
 - If you are on the live call, you can try to describe your problem and ask for help via the chat; hopefully other attendees will be able to assist.
+
+## License
+
+Code in this repository is licensed under the MIT license, and text under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0) license. Copyright David P. Sanders 2020
+
+## Author
+
+David P. Sanders, Department of Physics, Faculty of Sciences, Universidad Nacional Autónoma de México (National University of Mexico, UNAM) & Department of Mathematics, MIT.
