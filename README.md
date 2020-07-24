@@ -6,6 +6,12 @@ These are materials for the live workshop "Learn Julia via epidemic modelling" a
 which will take place on Friday 24 July, 2020 online.
 For access, please register for a free ticket at https://juliacon.org/2020
 
+The versions of the notebooks in the top directory have no output.
+The versions in the [`live`](live) subdirectory are the live versions produced during the workshop, with
+solutions to some of the exercises.
+
+I strongly suggest trying to solve the exercises before looking at the solutions!
+
 
 ## Setup
 
