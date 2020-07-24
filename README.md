@@ -13,16 +13,16 @@ For access, please register for a free ticket at https://juliacon.org/2020
 
 - Run Julia. At the Julia prompt, add the packages we will need as follows (copy and paste):
 
-    julia> using Pkg
+        julia> using Pkg
     
-    julia> Pkg.add("IJulia")
-    julia> Pkg.add("Plots")
-    julia> Pkg.add("Interact")
+        julia> Pkg.add("IJulia")
+        julia> Pkg.add("Plots")
+        julia> Pkg.add("Interact")
     
 - Once those packages have finished installing (which will install a collection of other packages that these depend on), type
 
-    julia> using IJulia
-    julia> notebook()
+        julia> using IJulia
+        julia> notebook()
 
   This should launch the [Jupyter notebook](https://jupyter.org) in your browser; this is a web application that provides a computational notegbook interface.
   
